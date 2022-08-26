@@ -1,0 +1,16 @@
+root@e1aa2ea10937:~# ls -l /root/0x02_emacs/opening
+root@e1aa2ea10937:~# Ctrl-x f
+root@e1aa2ea10937:~#/root/0x02_emacs/saving
+root@e1aa2ea10937:~# C-x C-s
+root@e1aa2ea10937:~#/root/0x02_emacs/cutting.
+root@e1aa2ea10937:~#press C-w
+root@e1aa2ea10937:~#/root/0x02_emacs/pasting.
+root@e1aa2ea10937:~#press C-y
+root@e1aa2ea10937:~#/root/0x02_emacs/searching.
+root@e1aa2ea10937:~#C-s RETURN C-w
+root@e1aa2ea10937:~#/root/0x02_emacs/undoing
+root@e1aa2ea10937:~# C-x u or C-
+root@e1aa2ea10937:~#/root/0x02_emacs/quitting.
+C-x C-c
+
+
